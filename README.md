@@ -12,4 +12,13 @@ Chat app real time chat application complete with usernames and connect/disconne
 
 
 # client side join
-![image](https://user-images.githubusercontent.com/55181621/147109134-aadc5af3-0917-48ed-b2a5-163b3dc8bf8f.png)
+![image](https://user-images.githubusercontent.com/55181621/147109811-0c2e6a9f-a181-4d4f-b971-23c3b75db1f6.png)
+
+## Available Scripts
+in th projects directory , you can run:
+
+## 'npm run devStart'
+
+Runs the app in the development mode.\
+Open [http://localhost:3000]
+(http://localhost:3000)to view it in the browser.

@@ -7,4 +7,6 @@ Chat app real time chat application complete with usernames and connect/disconne
 - appending elements with javascript
 - sending messages to the server in real time
 
+
+# client side join
 ![image](https://user-images.githubusercontent.com/55181621/147109134-aadc5af3-0917-48ed-b2a5-163b3dc8bf8f.png)

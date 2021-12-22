@@ -16,9 +16,13 @@ Chat app real time chat application complete with usernames and connect/disconne
 
 ## Available Scripts
 in th projects directory , you can run:
-
+- clone this repositroy
+- install dependecies
+ 
 ## 'npm run devStart'
 
 Runs the app in the development mode.\
-Open [http://localhost:3000]
-(http://localhost:3000)to view it in the browser.
+Open (http://localhost:3000)to view it in the browser.
+multiple tab in your browser to first server and seconds client . 
+
+

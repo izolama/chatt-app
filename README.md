@@ -1,7 +1,8 @@
 # story 
 Thank you to my friend who is willing 
 to lend me a laptop so i can continue 
-to grow and take job test.This instagram [Maulana Yusuf](https://instagram.com/mhaul19?utm_medium=copy_link)  
+to grow and take job test.
+This instagram [Maulana Yusuf](https://instagram.com/mhaul19?utm_medium=copy_link)  
 
 # chatt-app
 Chat app real time chat application complete with usernames and connect/disconnect messages. You will use Socket.io to manage real time web socket connections to a Node.js server that will allow you to communicaate real time chat messages to all clients connected to a single server.
